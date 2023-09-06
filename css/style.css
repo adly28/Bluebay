@@ -1,0 +1,125 @@
+nav ul{
+    padding-right: 60px;
+    }
+    
+    nav li{
+        padding-right: 30px;
+        }
+
+
+        nav ul li a:hover{
+            color: #000;
+            border-bottom: solid 2px #FFFFFF;
+            transition: 1s;
+            
+                }
+
+
+                .background{
+                    background-image: url(../images/WhatsApp\ Image\ 2023-09-05\ at\ 2.04.28\ PM\ \(2\).jpeg);
+                    background-size: 100% 100%;
+    background-position: center center;
+    background-attachment: fixed;
+                }
+
+                .photo{
+                    width: 4.0rem;
+                    height: 4.0rem;
+                    border-radius: 120px;
+                    
+                    background-size: 100% 100%;
+                    background-position: center center;
+                    background-image: url(../images/D.png);
+                    
+                }
+
+                #brand{
+                    font-family: 'Rubik', sans-serif;
+
+                }
+
+                .layer{
+                    background-color: rgba(0,0,0,0.3);
+                    font-family: 'Rubik', sans-serif;
+
+                }
+
+                .brd{
+                    height: 2px;
+                    width: 200px;
+                    background-color: #0078ff;
+                }
+
+
+                #title{
+                    color: #4433f5;
+                }
+                #red{
+                    color: red;
+                }
+
+
+                .line{
+                    width: 40px;
+                    height: 7px;
+                    background-color: #0078ff;
+                }
+
+                .carousel-item img {
+                    width: 90px;
+                    height: 90px;
+                    border-radius: 50%;
+                    
+                }
+                
+                
+                .a1 img{
+                    width: 30px;
+                    height: 30px;
+                    border-radius: 50%;
+                
+                }
+                
+                
+                .innerr h5 a:hover{
+                    color: #0078ff;
+                transition: 1s;
+                }
+                
+                
+                
+                .innerr a {
+                    text-decoration: none;
+                    color: black;
+                }
+                
+                
+                .bdge{
+                
+                    width: 70px;
+                    height: 27px;
+                   margin: auto;
+                  transform: translateY(-12px);
+                
+                }
+                
+
+                .bdgee{
+                
+                    width: 150px;
+                    height: 27px;
+                   margin: auto;
+                  transform: translateY(-12px);
+                
+                }
+                
+
+                .bdgeee{
+                
+                    width: 250px;
+                    height: 27px;
+                   margin: auto;
+                  transform: translateY(-12px);
+                
+                }
+
