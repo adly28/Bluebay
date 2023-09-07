@@ -19,7 +19,7 @@ nav ul{
                     background-image: url(../images/WhatsApp\ Image\ 2023-09-05\ at\ 2.04.28\ PM\ \(2\).jpeg);
                     background-size: 100% 100%;
     background-position: center center;
-    background-attachment: fixed;
+    background-attachment: scroll;
                 }
 
                 .photo{
